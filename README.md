@@ -3,7 +3,7 @@ Projetos dos Módulos do Curso Data Science Na Prática com Carlos Melo
 # Data_Science
 Meus Modelos de Data Science
 <p align="center">
-  <img src = "Template DS.png">
+  <img src = "Logo_Xingotec.png">
 </p>
 
 #Anselmo Alves
