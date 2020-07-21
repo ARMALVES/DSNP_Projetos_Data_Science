@@ -1,7 +1,6 @@
 # DSNP_Projetos_Data_Science
 Projetos dos Módulos do Curso Data Science Na Prática com Carlos Melo
-# Data_Science
-Meus Modelos de Data Science
+## Data_Science - Meus Projetos de Data Science
 <p align="center">
   <img src = "Template DS.png">
 </p>
