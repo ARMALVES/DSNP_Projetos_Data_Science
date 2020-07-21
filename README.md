@@ -34,5 +34,5 @@ Alguns trabalhos publicados:
 * **3: Criminalidade no Estado de São Paulo:** https://colab.research.google.com/drive/1E7TXCXWetGdfu5a2hYXNFHMJtK_uXvKf
 * **4: COVID-19 - Previsões:** https://colab.research.google.com/drive/1RX-QU08-59HFnz0oUxv8QFHo6KsBQNrK
 * **5: Analisando os Dados do Airbnb (Nova Iorque):** https://bit.ly/3e1Sm2O
-* **6: Analisando a Violência no Rio de Janeiro:** https://github.com/ARMALVES/DSNP_Projetos_Data_Science/blob/master/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb
+* **6: Analisando a Violência no Rio de Janeiro:** https://bit.ly/2OMeqDC
 * **7: PROJETO Panorama da COVID 19 no Brasil:** https://bit.ly/32HBJ9O
