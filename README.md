@@ -36,4 +36,4 @@ Alguns trabalhos publicados:
 * **5: Analisando os Dados do Airbnb (Nova Iorque):** https://bit.ly/3e1Sm2O
 * **6: Analisando a Violência no Rio de Janeiro:** https://bit.ly/2OMeqDC
 * **7: PROJETO Panorama da COVID 19 no Brasil:** https://bit.ly/32HBJ9O
-* **8: Projeto_Detectando_Fraudes_em_Cartões_de_Crédito.ipynb:** https://bit.ly/34DziGr
+* **8: Projeto_Detectando_Fraudes_em_Cartões_de_Crédito.ipynb:** https://bit.ly/2D57Q9h
